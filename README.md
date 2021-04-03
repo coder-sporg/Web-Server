@@ -8,22 +8,23 @@
 
 主要分为五个部分：
 
-* base：
-* blog-node：原生Node.js
-* blog-express：
-* blog-koa2
+* [base](https://github.com/coder-sporg/Web-Server/tree/main/base)：学习各个部分的test
+* [blog-node](https://github.com/coder-sporg/Web-Server/tree/main/blog-node)：原生 Node.js 开发 Blog
+* [blog-express](https://github.com/coder-sporg/Web-Server/tree/main/blog-express)：使用 Express 重构 Blog
+* [blog-koa2](https://github.com/coder-sporg/Web-Server/tree/main/blog-koa2)：使用 Koa2 重构 Blog
+* [html](https://github.com/coder-sporg/Web-Server/tree/main/html)：简单实现功能的前端页面
 
 ## Process Document
 
-* [开发路由](https://gitee.com/istaotao/node-blog-express-koa2/blob/master/docs/router.md)
-* [数据库 MySQL](https://gitee.com/istaotao/node-blog-express-koa2/blob/master/docs/mysql.md)
-* [登录](https://gitee.com/istaotao/node-blog-express-koa2/blob/master/docs/signin.md)
-* [nginx](https://gitee.com/istaotao/node-blog-express-koa2/blob/master/docs/nginx.md)
-* [日志](https://gitee.com/istaotao/node-blog-express-koa2/blob/master/docs/log.md)
-* [安全](https://gitee.com/istaotao/node-blog-express-koa2/blob/master/docs/safety.md)
-* [Express](https://gitee.com/istaotao/node-blog-express-koa2/blob/master/docs/express.md)
-* [Koa](https://gitee.com/istaotao/node-blog-express-koa2/blob/master/docs/koa.md)
-* [中间件原理](https://gitee.com/istaotao/node-blog-express-koa2/blob/master/docs/middleware.md)
+* [开发路由](https://github.com/coder-sporg/Web-Server/blob/main/base/docs/router.md)
+* [数据库 MySQL](https://github.com/coder-sporg/Web-Server/blob/main/base/docs/mysql.md)
+* [登录](https://github.com/coder-sporg/Web-Server/blob/main/base/docs/signin.md)
+* [nginx](https://github.com/coder-sporg/Web-Server/blob/main/base/docs/nginx.md)
+* [日志](https://github.com/coder-sporg/Web-Server/blob/main/base/docs/log.md)
+* [安全](https://github.com/coder-sporg/Web-Server/blob/main/base/docs/safety.md)
+* [Express](https://github.com/coder-sporg/Web-Server/blob/main/base/docs/express.md)
+* [Koa](https://github.com/coder-sporg/Web-Server/blob/main/base/docs/koa.md)
+* [中间件原理](https://github.com/coder-sporg/Web-Server/blob/main/base/docs/middleware.md)
 
 ## Tool
 
